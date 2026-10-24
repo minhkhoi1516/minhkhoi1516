@@ -123,15 +123,15 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "url": "https://t.me/minhkhoi_1516"
       },
       {
         "icon": "brand:discord",
-        "url": "https://discord.com/"
+        "url": "https://discord.com/minhkhoi_1516"
       },
       {
         "icon": "brand:x",
-        "url": "https://x.com/"
+        "url": "https://x.com/minhkhoi_1516"
       }
     ],
     "variant": "chip",
@@ -143,7 +143,7 @@
       {
         "icon": "language",
         "label": "My website",
-        "url": "https://example.com",
+        "url": "https://pro5-waifu-minkoi.vercel.app/",
         "style": "filled"
       },
       {
@@ -152,6 +152,7 @@
         "url": "",
         "style": "tonal"
       }
-    ]
+    ],
+    "card": true
   }
 }
