@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/minhkhoi1516/fake-bill-bot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-fake-bill-bot-dark.svg"><img src="assets/project-fake-bill-bot-light.svg" width="49%" alt="fake-bill-bot"></picture></a>
+<a href="https://github.com/minhkhoi1516/minhkhoi1516"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-minhkhoi1516-dark.svg"><img src="assets/project-minhkhoi1516-light.svg" width="49%" alt="minhkhoi1516"></picture></a>&nbsp;<a href="https://github.com/minhkhoi1516/fake-bill-bot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-fake-bill-bot-dark.svg"><img src="assets/project-fake-bill-bot-light.svg" width="49%" alt="fake-bill-bot"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
